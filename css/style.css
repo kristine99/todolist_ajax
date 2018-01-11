@@ -1,0 +1,10 @@
+#btndone{
+    display:none;
+}
+#container{
+    margin:0 auto;
+}
+td {
+    border-style: solid;
+    padding:2px;
+}
